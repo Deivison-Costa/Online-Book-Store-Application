@@ -18,7 +18,7 @@
 
 # Getting Started
 ## Clone the repository:
-    git clone <repository_url>
+    git clone https://github.com/Deivison-Costa/Online-Book-Store-Application
 
 - Import the project into Eclipse (or your preferred Java IDE) as a Maven project.
 
