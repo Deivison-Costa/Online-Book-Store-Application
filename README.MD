@@ -2,6 +2,8 @@
 - The Online Book Store is a simple web application that allows users to browse, search, and order books online. This application is built using the Spring Boot framework to create a RESTful API for managing books in an in-memory database. 
 - Users can interact with the API using cURL or any other HTTP client.
 
+![Figure_1](https://github.com/Deivison-Costa/Tasks-Manager/assets/112001225/5f116756-c38b-4124-bc01-095cd6c84c97)
+
 # Features
 - Get a list of all books in the store.
 - Get details of a specific book by its ID.
